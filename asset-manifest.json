@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bazaarShopy/static/css/main.073c9b0a.css",
-    "main.js": "/bazaarShopy/static/js/main.099d4ec4.js",
+    "main.js": "/bazaarShopy/static/js/main.0dd860a9.js",
     "static/js/787.129bad16.chunk.js": "/bazaarShopy/static/js/787.129bad16.chunk.js",
     "index.html": "/bazaarShopy/index.html",
     "main.073c9b0a.css.map": "/bazaarShopy/static/css/main.073c9b0a.css.map",
-    "main.099d4ec4.js.map": "/bazaarShopy/static/js/main.099d4ec4.js.map",
+    "main.0dd860a9.js.map": "/bazaarShopy/static/js/main.0dd860a9.js.map",
     "787.129bad16.chunk.js.map": "/bazaarShopy/static/js/787.129bad16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.099d4ec4.js"
+    "static/js/main.0dd860a9.js"
   ]
 }
